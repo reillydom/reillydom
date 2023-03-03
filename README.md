@@ -1,4 +1,7 @@
-### Hi there 👋
+- 👋 Hi, I’m @reillydom
+- 👀 I’m interested in .Net development, including Framework, Core and app development via Xamarin 
+- 🌱 I’m currently learning Blazor using .net 6
+
 
 <!--
 **reillydom/reillydom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
