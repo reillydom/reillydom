@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @reillydom
 - 👀 I’m interested in .Net development, including Framework, Core and app development via Xamarin 
-- 🌱 I’m currently learning Blazor using .net 6
+- 🌱 I’m currently learning Blazor using .net 6 and 8
 
 
 <!--
