@@ -1,6 +1,10 @@
 - 👋 Hi, I’m @reillydom
-- 👀 I’m interested in .Net development, including Framework, Core and app development via Xamarin 
-- 🌱 I’m currently learning Blazor using .net 6 and 8
+- 👀 I’m interested in .Net development, including Framework, Core and app development via Maui
+- ☀️ By day I work for a Digital agency using Optimizely as the core CMS with .Net
+- 🌑 By night, I work on Blazor projects using .net 8
+- ⚡ I'm a certified Optimizley PaaS developer
+- 🌱 I'm currently learning Go
+- 🔭 I'm currently working on a blog powered by Blazor 
 
 
 <!--
